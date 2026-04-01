@@ -866,9 +866,6 @@ FW_VERSIONS = {
       b'\xf1\x00\xff\x00',
       b'\xf1\x8b\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00',
     ],
-    (Ecu.eps, 0x7d4, None): [
-      b"\xf1\x00JF MDPS C 1.00 1.03 56310A8650 4JFHC103",
-    ],
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00JFP LKAS AT EUR LHD 1.00 1.03 95895-A8100 160711',
     ],
