@@ -860,7 +860,7 @@ FW_VERSIONS = {
   CAR.KIA_OPTIMA_H: {
     (Ecu.combinationMeter, 0x7c6, None): [
       b'\xf1\x8b \x18\x03\x10',
-      b'\xf1\x00743'
+      b'\xf1\x00743',
     ],
     (Ecu.cornerRadar, 0x7b7, None): [
       b'\xf1\x00\xff\x00',
@@ -871,11 +871,11 @@ FW_VERSIONS = {
     ],
     (Ecu.fwdRadar, 0x7d0, None): [
       b'\xf1\x00JFhe SCC FNCUP      1.00 1.00 96400-A8000         ',
-      b'\xf1\x00JFhe SCC F-CUP      1.00 1.00 96400-A8000         '
-      b'\xf1\x10\x13\x00\x00\x00'
+      b'\xf1\x00JFhe SCC F-CUP      1.00 1.00 96400-A8000         ',
+      b'\xf1\x10\x13\x00\x00\x00',
     ],
     (Ecu.parkingAdas, 0x7b1, None): [
-      b'\xf1\x10JFP SPAS ADL 1.00 1.00 96880-A8200'
+      b'\xf1\x10JFP SPAS ADL 1.00 1.00 96880-A8200',
     ],
   },
   CAR.KIA_OPTIMA_H_G4_FL: {
